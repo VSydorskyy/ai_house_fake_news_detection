@@ -22,3 +22,4 @@ wordcloud==1.8.2.2
 datasets==2.8.0
 pyLDAvis==3.3.1
 bertopic==0.13.0
+kaggle==1.5.12
