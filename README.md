@@ -28,7 +28,8 @@ jupyter lab --port 7766
 
 # Content 
 
-0. [Workshop](https://github.com/VSydorskyy/ai_house_fake_news_detection/blob/main/workshop/AI_House_workshop.ipynb). Colab [link](https://colab.research.google.com/drive/16eFSJMhVYYBo1WhbhhkLBN6kWuXzTstf?usp=sharing)
+- [Workshop](https://github.com/VSydorskyy/ai_house_fake_news_detection/blob/main/workshop/AI_House_workshop.ipynb). Colab [link](https://colab.research.google.com/drive/16eFSJMhVYYBo1WhbhhkLBN6kWuXzTstf?usp=sharing)
+- [Week 2 Session 1](https://github.com/VSydorskyy/ai_house_fake_news_detection/blob/week_2/Week_2_Linear_and_Recurrent_models/Session_1_Text_Data_Representations.ipynb)
 
 # Data
 
