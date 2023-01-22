@@ -23,3 +23,4 @@ datasets==2.8.0
 pyLDAvis==3.3.1
 bertopic==0.13.0
 kaggle==1.5.12
+spacy==3.5.0

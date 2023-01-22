@@ -29,3 +29,15 @@ jupyter lab --port 7766
 # Content 
 
 0. [Workshop](https://github.com/VSydorskyy/ai_house_fake_news_detection/blob/main/workshop/AI_House_workshop.ipynb). Colab [link](https://colab.research.google.com/drive/16eFSJMhVYYBo1WhbhhkLBN6kWuXzTstf?usp=sharing)
+
+# Data
+
+- For Lecture 2.1 we will use Kaggle datasets. [Prepare in advance](#how-to-use-kaggle-datasets)
+    - Fake and real news dataset API command: `kaggle datasets download -d clmentbisaillon/fake-and-real-news-dataset`
+    - Toxic Comment Classification Challenge API command: `kaggle competitions download -c jigsaw-toxic-comment-classification-challenge`
+
+## How to use Kaggle datasets
+
+1. Create Kaggle account 
+2. Proceed [with Installation & Authentication](https://www.kaggle.com/docs/api#getting-started-installation-&-authentication)
+3. Download dataset with API command 
