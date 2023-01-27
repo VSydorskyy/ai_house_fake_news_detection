@@ -28,4 +28,18 @@ jupyter lab --port 7766
 
 # Content 
 
-0. [Workshop](https://github.com/VSydorskyy/ai_house_fake_news_detection/blob/main/workshop/AI_House_workshop.ipynb). Colab [link](https://colab.research.google.com/drive/16eFSJMhVYYBo1WhbhhkLBN6kWuXzTstf?usp=sharing)
+- [Workshop](https://github.com/VSydorskyy/ai_house_fake_news_detection/blob/main/workshop/AI_House_workshop.ipynb). Colab [link](https://colab.research.google.com/drive/16eFSJMhVYYBo1WhbhhkLBN6kWuXzTstf?usp=sharing)
+- [Week 2 Session 1](https://github.com/VSydorskyy/ai_house_fake_news_detection/blob/week_2/Week_2_Linear_and_Recurrent_models/Session_1_Text_Data_Representations.ipynb)
+- [Week 2 Session 2](https://github.com/VSydorskyy/ai_house_fake_news_detection/blob/week_2/Week_2_Linear_and_Recurrent_models/Session_2_Regressions_and_Recurrent_models.ipynb)
+
+# Data
+
+- For Week 2 we will use Kaggle datasets. [Prepare in advance](#how-to-use-kaggle-datasets)
+    - Fake and real news dataset API command: `kaggle datasets download -d clmentbisaillon/fake-and-real-news-dataset`
+    - Toxic Comment Classification Challenge API command: `kaggle competitions download -c jigsaw-toxic-comment-classification-challenge`
+
+## How to use Kaggle datasets
+
+1. Create Kaggle account 
+2. Proceed [with Installation & Authentication](https://www.kaggle.com/docs/api#getting-started-installation-&-authentication)
+3. Download dataset with API command 

@@ -2,7 +2,7 @@
 
 numpy==1.22.4
 pandas==1.4.2
-torch==1.11.0
+torch==1.13.1
 matplotlib==3.5.2
 seaborn==0.11.2
 tqdm==4.64.0
@@ -15,10 +15,14 @@ beautifulsoup4==4.11.1
 hydra-core==1.2.0
 tensorboard==2.9.1
 html5lib==1.1
-jupyterlab==3.4.2
+jupyterlab==3.5.2
 iso8601==1.1.0
 rfc3339==6.2
 wordcloud==1.8.2.2
 datasets==2.8.0
 pyLDAvis==3.3.1
 bertopic==0.13.0
+kaggle==1.5.12
+spacy==3.5.0
+eli5==0.13.0
+torchtext==0.14.1
