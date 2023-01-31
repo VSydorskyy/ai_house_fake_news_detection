@@ -15,7 +15,7 @@ beautifulsoup4==4.11.1
 hydra-core==1.2.0
 tensorboard==2.9.1
 html5lib==1.1
-jupyterlab==3.5.2
+jupyterlab==3.4.2
 iso8601==1.1.0
 rfc3339==6.2
 wordcloud==1.8.2.2
