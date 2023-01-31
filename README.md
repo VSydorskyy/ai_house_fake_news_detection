@@ -34,7 +34,7 @@ jupyter lab --port 7766
 
 # Data
 
-- For Week 2 we will use Kaggle datasets. [Prepare in advance](#how-to-use-kaggle-datasets)
+- For Week 2 and 3 we will use Kaggle datasets. [Prepare in advance](#how-to-use-kaggle-datasets)
     - Fake and real news dataset API command: `kaggle datasets download -d clmentbisaillon/fake-and-real-news-dataset`
     - Toxic Comment Classification Challenge API command: `kaggle competitions download -c jigsaw-toxic-comment-classification-challenge`
 
