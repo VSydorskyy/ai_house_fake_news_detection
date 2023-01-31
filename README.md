@@ -28,7 +28,7 @@ jupyter lab --port 7766
 
 # Content 
 
-- [Workshop](workshop/AI_House_workshop.ipynb)
+- [Workshop](workshop/AI_House_workshop.ipynb). [Colab](https://colab.research.google.com/drive/16eFSJMhVYYBo1WhbhhkLBN6kWuXzTstf?usp=sharing)
 - [Week 1 Session 1](Week_1_Intro_and_data_scrapping/Session_1_Intro.ipynb)
 - [Week 2 Session 1](Week_2_Linear_and_Recurrent_models/Session_1_Text_Data_Representations.ipynb)
 - [Week 2 Session 2](Week_2_Linear_and_Recurrent_models/Session_2_Regressions_and_Recurrent_models.ipynb)
