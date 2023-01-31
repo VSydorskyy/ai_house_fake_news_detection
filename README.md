@@ -32,7 +32,7 @@ jupyter lab --port 7766
 - [Week 1 Session 1](Week_1_Intro_and_data_scrapping/Session_1_Intro.ipynb)
 - [Week 2 Session 1](Week_2_Linear_and_Recurrent_models/Session_1_Text_Data_Representations.ipynb)
 - [Week 2 Session 2](Week_2_Linear_and_Recurrent_models/Session_2_Regressions_and_Recurrent_models.ipynb)
-- [Week 3 Session 1](Week_3_Text_Clustering_with_Transformers/.ipynb_checkpoints/Session_1_Transformers-checkpoint.ipynb)
+- [Week 3 Session 1](Week_3_Text_Clustering_with_Transformers/Session_1_Transformers.ipynb)
 
 # Data
 
