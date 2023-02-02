@@ -1,3 +1,0 @@
-flask==2.2.2
-joblib
-scikit-learn==1.0
